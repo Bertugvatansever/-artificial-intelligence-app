@@ -29,7 +29,7 @@ class ChatController extends GetxController {
     super.onInit();
 
     _localDbService.getChats().then((value) {
-      chats.addAsll(value);
+      chats.addAll(value);
     });
   }
 

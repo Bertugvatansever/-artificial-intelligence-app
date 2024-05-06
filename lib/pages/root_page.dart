@@ -7,7 +7,6 @@ import 'package:get/get.dart';
 import 'package:nexa_reach/controllers/chat_controller.dart';
 import 'package:nexa_reach/pages/chat_page.dart';
 import 'package:nexa_reach/pages/image_page.dart';
-// api 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
 
 class RootPage extends StatefulWidget {
   const RootPage({super.key});
